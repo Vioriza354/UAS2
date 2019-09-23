@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "615134121678",
+    "firebase_url": "https://uasfirebaseproject-98cab.firebaseio.com",
+    "project_id": "uasfirebaseproject-98cab",
+    "storage_bucket": "uasfirebaseproject-98cab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615134121678:android:33e26679f28cfba50c8a9f",
+        "android_client_info": {
+          "package_name": "com.example.uas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615134121678-k3q09mqofblpl1j7l2urgt8anndnb431.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uas",
+            "certificate_hash": "fca53226151fd77c64fe9152fb8b3cbec107f0de"
+          }
+        },
+        {
+          "client_id": "615134121678-4m3a9tj60djn05itdks6c0dfm7j8g8co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxBQ5rih9VRoGpp-W8eeuqUj4-gDobql0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615134121678-4m3a9tj60djn05itdks6c0dfm7j8g8co.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
